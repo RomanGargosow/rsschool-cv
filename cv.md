@@ -34,8 +34,8 @@
 ## Code Example:
 
 ```
-function example (x, y) {
-  return x + y;
+function example (a, b) {
+  return a + b;
 }
 
 let result = example(1, 2);
