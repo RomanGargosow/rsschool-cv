@@ -14,8 +14,6 @@
 
 ##### Telegram: [@xerogrand](https://t.me/xerogrand)
 
-##### Phone: [+4888473803](tel:+4888473803)
-
 ## About Me:
 
 **My goal is to become a front-end specialist. I find it easy to get along with most people. I like to learn new technologies.**
@@ -53,8 +51,6 @@ console.log( result );
 ##### Udemy
 
 - ##### HTML, CSS, SASS, BEM
-
-##### JavaScript - [learn.javascript.ru](https://learn.javascript.ru/)
 
 ## Languages:
 
