@@ -34,7 +34,7 @@ body {
 }
 
 .year {
-    text-shadow: 9px 11px 14px rgba(66, 68, 90, 1);
+    text-shadow: 4px 4px 6px rgba(66, 68, 90, 1);
     font-style: bold;
     margin-right: 14px;
     font-size: 36px;
