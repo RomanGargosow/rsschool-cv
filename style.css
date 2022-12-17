@@ -1,3 +1,41 @@
-p {
-    color: yellowgreen;
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(170, 170, 170, 0.3);
+}
+
+.footer-logotips {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-end;
+}
+
+.container {
+    border-radius: 0.5% 0.5% 0.5% 0.5%;
+    background-color: rgba(255, 255, 255, 0.719);
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    -webkit-box-shadow: 0px 0px 100px -41px rgba(255, 0, 0, 0.72);
+    -moz-box-shadow: 0px 0px 100px -41px rgba(255, 0, 0, 0.72);
+    box-shadow: 0px 0px 100px -41px rgba(255, 0, 0, 0.72);
+
+}
+
+.header-avatar {
+    width: 300px;
+}
+
+.logo-rs_school {
+    width: 100px;
+}
+
+.year {
+    text-shadow: 4px 4px 6px rgba(66, 68, 90, 1);
+    font-style: bold;
+    margin-right: 14px;
+    font-size: 36px;
 }
