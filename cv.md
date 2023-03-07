@@ -52,3 +52,8 @@ console.log( result );
 
 - ##### HTML, CSS, SASS, BEM
 
+## Languages:
+
+- ##### Russian - Native
+- ##### Polish – B1
+- ##### English - A2
